@@ -1,7 +1,9 @@
 # GitTest
 
-Testing Out Git Features
-
 ## Author
 
 **Patrick Ha**
+
+## Description
+
+Testing Out Git Features
